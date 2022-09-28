@@ -1,15 +1,5 @@
-@font-face {
-    font-family: TacoCrispy;
-    src: url(TacoCrispy.ttf);
-}
-
-@font-face {
-    font-family: ElroNet;
-    src: url(Elronmonospace.ttf);
-}
-
 .taco {
-    font-family: "TacoCrispy", sans-serif;
+    font-family: "Taco Crispy", sans-serif;
     font-size: 48px;
     line-height: 0.4;
     color: #F5F6E8;
@@ -17,14 +7,14 @@
     -webkit-text-stroke: 0.5px; */
 }
 .other {
-    font-family: "ElroNet", sans-serif;
+    font-family: "ElroNet Monospace", sans-serif;
     font-size: 16px;
     line-height: 1.4;
     color: #F5F6E8;
 }
 
 .other2 {
-    font-family: "ElroNet", sans-serif;
+    font-family: "ElroNet Monospace", sans-serif;
     font-size: 16px;
     line-height: 1.4;
     color: #414220;
